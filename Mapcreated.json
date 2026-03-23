@@ -1,8 +1,8 @@
 {
     "owner": {
-        "username": "YOUR-GITHUB-USERNAME"
+        "username": "afuchi"
     },
     "record": {
-        "CNAME": "YOUR-GITHUB-USERNAME.github.io"
+        "CNAME": "afuchi.github.io"
     }
 }
