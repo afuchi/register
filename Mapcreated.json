@@ -4,5 +4,6 @@
     },
     "record": {
         "CNAME": "afuchi.github.io"
+        "TXT": ["_github-pages-challenge-afuchi=e2e91447a1e11ac14b2e96d1699d43"]
     }
 }
